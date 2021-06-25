@@ -1,4 +1,5 @@
-import youtube_dl, subprocess
+import subprocess
+import youtube_dl
 
 video_url = "https://www.youtube.com/watch?v=gq4DYnQjWvw"
 start_at = "00:01:20"
